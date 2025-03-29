@@ -6,7 +6,7 @@
   "scripts": {
     "doc": "typedoc",
     "test": "vitest run",
-    "coverage": "vitest run tests/models/* --coverage --coverage.include 'src/models/*'"
+    "coverage": "vitest run tests/models/* --coverage --coverage.include 'src/funkos/models/*' --coverage.exclude 'src/funkos/models/funkocollection.ts'"
   },
   "repository": {
     "type": "git",
