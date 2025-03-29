@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Elsa",
+  "description": "Reina de Arendelle",
+  "type": "Vinyl Soda",
+  "genre": "Movies",
+  "franchise": "Frozen",
+  "number": 21,
+  "exclusive": false,
+  "specialFeatures": "Transparent dress",
+  "marketValue": 20
+}

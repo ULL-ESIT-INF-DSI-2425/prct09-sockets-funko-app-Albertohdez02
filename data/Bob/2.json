@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Vegeta",
+  "description": "Príncipe Saiyan",
+  "type": "Vinyl Soda",
+  "genre": "Anime",
+  "franchise": "Dragon Ball",
+  "number": 50,
+  "exclusive": false,
+  "specialFeatures": "Scouter attached",
+  "marketValue": 28
+}

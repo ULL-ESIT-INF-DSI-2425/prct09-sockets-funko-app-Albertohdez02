@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Harry Potter",
+  "description": "Mago de Hogwarts",
+  "type": "Pop!",
+  "genre": "Movies",
+  "franchise": "Harry Potter",
+  "number": 1,
+  "exclusive": true,
+  "specialFeatures": "Holding wand",
+  "marketValue": 25
+}

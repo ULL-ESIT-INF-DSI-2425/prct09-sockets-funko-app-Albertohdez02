@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Tanjiro",
+  "description": "Cazador de demonios",
+  "type": "Pop!",
+  "genre": "Anime",
+  "franchise": "Demon Slayer",
+  "number": 77,
+  "exclusive": true,
+  "specialFeatures": "Water breathing effect",
+  "marketValue": 40
+}

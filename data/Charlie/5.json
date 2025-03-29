@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Deadpool",
+  "description": "Antihéroe sarcástico",
+  "type": "Pop!",
+  "genre": "Comics",
+  "franchise": "Marvel",
+  "number": 68,
+  "exclusive": false,
+  "specialFeatures": "Chimichanga accessory",
+  "marketValue": 25
+}

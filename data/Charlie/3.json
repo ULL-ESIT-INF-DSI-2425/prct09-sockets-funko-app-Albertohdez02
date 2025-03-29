@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Hulk",
+  "description": "Gigante verde",
+  "type": "Dorbz",
+  "genre": "Comics",
+  "franchise": "Marvel",
+  "number": 12,
+  "exclusive": false,
+  "specialFeatures": "Angry face",
+  "marketValue": 19
+}

@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Joker",
+  "description": "Némesis de Batman",
+  "type": "Pop!",
+  "genre": "Comics",
+  "franchise": "DC",
+  "number": 99,
+  "exclusive": false,
+  "specialFeatures": "Laughing expression",
+  "marketValue": 18
+}

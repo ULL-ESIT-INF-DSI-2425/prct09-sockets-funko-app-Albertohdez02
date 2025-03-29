@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Kratos",
+  "description": "Dios de la guerra",
+  "type": "Pop!",
+  "genre": "Videogames",
+  "franchise": "God of War",
+  "number": 18,
+  "exclusive": true,
+  "specialFeatures": "Leviathan Axe",
+  "marketValue": 50
+}

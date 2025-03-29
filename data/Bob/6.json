@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Sasuke",
+  "description": "Ninja renegado",
+  "type": "Pop!",
+  "genre": "Anime",
+  "franchise": "Naruto",
+  "number": 29,
+  "exclusive": false,
+  "specialFeatures": "Sharingan eyes",
+  "marketValue": 32
+}

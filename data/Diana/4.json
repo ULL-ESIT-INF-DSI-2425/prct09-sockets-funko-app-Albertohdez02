@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Samus Aran",
+  "description": "Cazarrecompensas galáctica",
+  "type": "Dorbz",
+  "genre": "Videogames",
+  "franchise": "Metroid",
+  "number": 25,
+  "exclusive": false,
+  "specialFeatures": "Arm cannon effect",
+  "marketValue": 35
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Steve",
+  "description": "Personaje de Minecraft",
+  "type": "Pop!",
+  "genre": "Videogames",
+  "franchise": "Minecraft",
+  "number": 11,
+  "exclusive": false,
+  "specialFeatures": "Diamond sword",
+  "marketValue": 28
+}

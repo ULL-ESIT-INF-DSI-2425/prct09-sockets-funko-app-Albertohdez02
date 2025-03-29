@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Sonic",
+  "description": "Erizo veloz",
+  "type": "Pop!",
+  "genre": "Videogames",
+  "franchise": "Sonic the Hedgehog",
+  "number": 1,
+  "exclusive": true,
+  "specialFeatures": "Runs fast",
+  "marketValue": 22
+}

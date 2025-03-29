@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Luffy",
+  "description": "Capitán de los Mugiwara",
+  "type": "Dorbz",
+  "genre": "Anime",
+  "franchise": "One Piece",
+  "number": 100,
+  "exclusive": false,
+  "specialFeatures": "Straw hat removable",
+  "marketValue": 26
+}

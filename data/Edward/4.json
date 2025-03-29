@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Boba Fett",
+  "description": "Cazarrecompensas",
+  "type": "Pop!",
+  "genre": "Movies",
+  "franchise": "Star Wars",
+  "number": 99,
+  "exclusive": true,
+  "specialFeatures": "Battle-damaged armor",
+  "marketValue": 42
+}

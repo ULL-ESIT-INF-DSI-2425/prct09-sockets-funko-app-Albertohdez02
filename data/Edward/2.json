@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Luke Skywalker",
+  "description": "Caballero Jedi",
+  "type": "Pop!",
+  "genre": "Movies",
+  "franchise": "Star Wars",
+  "number": 8,
+  "exclusive": true,
+  "specialFeatures": "Green lightsaber",
+  "marketValue": 45
+}

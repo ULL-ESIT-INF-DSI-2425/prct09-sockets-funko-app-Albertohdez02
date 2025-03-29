@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Pikachu",
+  "description": "Pokémon eléctrico",
+  "type": "Vinyl Soda",
+  "genre": "Videogames",
+  "franchise": "Pokémon",
+  "number": 151,
+  "exclusive": true,
+  "specialFeatures": "Flocked texture",
+  "marketValue": 40
+}

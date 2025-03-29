@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Captain America",
+  "description": "Vengador patriota",
+  "type": "Pop!",
+  "genre": "Comics",
+  "franchise": "Marvel",
+  "number": 10,
+  "exclusive": true,
+  "specialFeatures": "Shield throwing pose",
+  "marketValue": 30
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Gandalf",
+  "description": "Mago de la Tierra Media",
+  "type": "Dorbz",
+  "genre": "Movies",
+  "franchise": "The Lord of the Rings",
+  "number": 5,
+  "exclusive": true,
+  "specialFeatures": "Staff glows",
+  "marketValue": 35
+}

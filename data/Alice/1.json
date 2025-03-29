@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Batman",
+  "description": "Héroe nocturno",
+  "type": "Pop!",
+  "genre": "Movies",
+  "franchise": "DC",
+  "number": 45,
+  "exclusive": true,
+  "specialFeatures": "Edición limitada",
+  "marketValue": 30
+}

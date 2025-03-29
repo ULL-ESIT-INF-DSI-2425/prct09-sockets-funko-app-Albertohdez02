@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Link",
+  "description": "Héroe de Hyrule",
+  "type": "Pop!",
+  "genre": "Videogames",
+  "franchise": "The Legend of Zelda",
+  "number": 64,
+  "exclusive": true,
+  "specialFeatures": "Master Sword",
+  "marketValue": 38
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Hunter",
+  "description": "A beast hunter",
+  "type": "Pop!",
+  "genre": "Videogames",
+  "franchise": "Bloodborne",
+  "number": 1,
+  "exclusive": true,
+  "specialFeatures": "Slashes when moved",
+  "marketValue": 12
+}

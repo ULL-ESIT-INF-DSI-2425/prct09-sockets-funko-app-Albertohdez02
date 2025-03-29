@@ -1,0 +1,1 @@
+{"root":["./models/funko.spec.ts","./src/funkos/cli/app.ts","./src/funkos/enums/funkogenre.ts","./src/funkos/enums/funkotype.ts","./src/funkos/interfaces/funkofigure.ts","./src/funkos/models/funko.ts","./src/funkos/models/funkocollection.ts"],"errors":true,"version":"5.7.3"}

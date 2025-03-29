@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Iron Man",
+  "description": "Millonario filántropo",
+  "type": "Pop!",
+  "genre": "Comics",
+  "franchise": "Marvel",
+  "number": 45,
+  "exclusive": true,
+  "specialFeatures": "Arc Reactor glowing",
+  "marketValue": 38
+}

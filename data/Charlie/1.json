@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Spider-Man",
+  "description": "Héroe arácnido",
+  "type": "Pop!",
+  "genre": "Comics",
+  "franchise": "Marvel",
+  "number": 99,
+  "exclusive": false,
+  "specialFeatures": "Metallic suit",
+  "marketValue": 20
+}

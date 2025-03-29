@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Thor",
+  "description": "Dios del trueno",
+  "type": "Vinyl Soda",
+  "genre": "Comics",
+  "franchise": "Marvel",
+  "number": 6,
+  "exclusive": true,
+  "specialFeatures": "Mjolnir electric effect",
+  "marketValue": 45
+}

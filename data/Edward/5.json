@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "name": "Chewbacca",
+  "description": "Copiloto del Halcón Milenario",
+  "type": "Pop!",
+  "genre": "Movies",
+  "franchise": "Star Wars",
+  "number": 31,
+  "exclusive": false,
+  "specialFeatures": "Furry texture",
+  "marketValue": 8
+}

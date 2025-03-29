@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Charizard",
+  "description": "Dragón de fuego",
+  "type": "Pop!",
+  "genre": "Videogames",
+  "franchise": "Pokémon",
+  "number": 6,
+  "exclusive": false,
+  "specialFeatures": "Fire breath effect",
+  "marketValue": 42
+}

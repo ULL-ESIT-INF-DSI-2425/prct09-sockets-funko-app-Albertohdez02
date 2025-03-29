@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "name": "Stormtrooper",
+  "description": "Soldado imperial",
+  "type": "Pop!",
+  "genre": "Movies",
+  "franchise": "Star Wars",
+  "number": 50,
+  "exclusive": false,
+  "specialFeatures": "Blaster pose",
+  "marketValue": 22
+}

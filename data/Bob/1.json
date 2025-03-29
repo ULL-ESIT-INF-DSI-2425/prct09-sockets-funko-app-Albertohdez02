@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Goku",
+  "description": "Guerrero Saiyan",
+  "type": "Pop!",
+  "genre": "Anime",
+  "franchise": "Dragon Ball",
+  "number": 23,
+  "exclusive": true,
+  "specialFeatures": "Super Saiyan hair",
+  "marketValue": 35
+}

@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Yoda",
+  "description": "Maestro Jedi",
+  "type": "Vinyl Soda",
+  "genre": "Movies",
+  "franchise": "Star Wars",
+  "number": 2,
+  "exclusive": false,
+  "specialFeatures": "Floating pose",
+  "marketValue": 38
+}

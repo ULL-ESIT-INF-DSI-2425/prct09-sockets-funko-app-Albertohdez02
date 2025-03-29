@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Darth Vader",
+  "description": "Señor Sith",
+  "type": "Dorbz",
+  "genre": "Movies",
+  "franchise": "Star Wars",
+  "number": 66,
+  "exclusive": false,
+  "specialFeatures": "Breathing sound effect",
+  "marketValue": 50
+}
