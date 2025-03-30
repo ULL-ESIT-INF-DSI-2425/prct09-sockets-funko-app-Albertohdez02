@@ -1,12 +1,12 @@
 {
   "id": 5,
-  "name": "Sonic",
-  "description": "Erizo veloz",
+  "name": "Rompololo",
+  "description": "Un monstruo de MH wilds",
   "type": "Pop!",
   "genre": "Videogames",
-  "franchise": "Sonic the Hedgehog",
-  "number": 1,
+  "franchise": "Monster Hunter",
+  "number": 10,
   "exclusive": true,
-  "specialFeatures": "Runs fast",
-  "marketValue": 22
+  "specialFeatures": "",
+  "marketValue": 23
 }

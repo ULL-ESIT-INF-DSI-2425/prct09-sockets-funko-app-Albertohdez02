@@ -2,9 +2,11 @@ import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
 import { FunkoType } from "../enums/funkotype.js";
 import { FunkoGenre } from "../enums/funkogenre.js";
-import { Funko} from "../models/funko.js";
-import { FunkoCollection } from "../models/funkocollection.js";
+import { Funko } from "../models/funko.js";
+import { RequestType } from "../types/requesttype.js";
+import { FunkoClient } from "../models/client.js"; 
 
+const client = new FunkoClient("localhost", 60300); 
 
 yargs(hideBin(process.argv))
   .command(
@@ -26,7 +28,7 @@ yargs(hideBin(process.argv))
       });
     },
     (args) => {
-      const funko = new Funko(
+      const funko: Funko = new Funko(
         args.id,
         args.name,
         args.desc,
@@ -38,13 +40,19 @@ yargs(hideBin(process.argv))
         args.feats,
         args.value
       );
-      const collection = new FunkoCollection(args.user);
-      collection.addFunko(funko);
+
+      const request: RequestType = {
+        type: "add",
+        username: args.user,
+        funkoPop: [funko],
+      };
+
+      client.sendRequest(request);
     }
   )
   .command(
     "remove",
-    "Removes a Funko to the collection",
+    "Removes a Funko from the collection",
     (yargs) => {
       return yargs.options({
         user: { type: "string", demandOption: true },
@@ -52,8 +60,13 @@ yargs(hideBin(process.argv))
       });
     },
     (args) => {
-      const collection = new FunkoCollection(args.user);
-      collection.removeFunko(args.id);
+      const request: RequestType = {
+        type: "remove",
+        username: args.user,
+        funkoId: args.id,
+      };
+
+      client.sendRequest(request);
     }
   )
   .command(
@@ -65,8 +78,12 @@ yargs(hideBin(process.argv))
       });
     },
     (args) => {
-      const collection = new FunkoCollection(args.user);
-      collection.listFunkos();
+      const request: RequestType = {
+        type: "list",
+        username: args.user,
+      };
+
+      client.sendRequest(request);
     }
   )
   .command(
@@ -79,13 +96,18 @@ yargs(hideBin(process.argv))
       });
     },
     (args) => {
-      const collection = new FunkoCollection(args.user);
-      collection.showFunko(args.id);
+      const request: RequestType = {
+        type: "show",
+        username: args.user,
+        funkoId: args.id,
+      };
+
+      client.sendRequest(request);
     }
   )
   .command(
     "modify",
-    "Modifica un Funko en la colección de un usuario",
+    "Modifies a Funko in the collection",
     (yargs) => {
       return yargs.options({
         user: { type: "string", demandOption: true },
@@ -102,7 +124,7 @@ yargs(hideBin(process.argv))
       });
     },
     (args) => {
-      const funko = new Funko(
+      const funko: Funko = new Funko(
         args.id,
         args.name,
         args.desc,
@@ -114,8 +136,14 @@ yargs(hideBin(process.argv))
         args.feats,
         args.value
       );
-      const collection = new FunkoCollection(args.user);
-      collection.modifyFunko(funko);
+
+      const request: RequestType = {
+        type: "modify",
+        username: args.user,
+        funkoPop: [funko],
+      };
+
+      client.sendRequest(request);
     }
   )
   .help()
